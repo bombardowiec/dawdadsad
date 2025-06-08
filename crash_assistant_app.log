@@ -1,0 +1,35 @@
+[2025-06-08 20:15:51.631] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: JVM args: [-XX:+UseSerialGC, -XX:MaxHeapFreeRatio=30, -XX:MinHeapFreeRatio=10, -XX:MaxGCPauseMillis=10000, -Xms8m, -Xmx512m]
+[2025-06-08 20:15:51.633] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running: program args: [-jarPath, C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\local\crash_assistant\8492_1749406547808_app.jar, -parentPID, 8492, -parentStarted, 1749406547808, -platform, FABRIC, -loaderJarName, fabric-loader-0.16.14.jar, -minecraftVersion, 1.21.3, -childProcessesPIDs, VU5ERUZJTkVE, -crashAssistantModJarPath, C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\mods\CrashAssistant-fabric-1.19.2-1.21.4-1.9.2.jar, -log4jApi, C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.22.1\log4j-api-2.22.1.jar, -log4jCore, C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.22.1\log4j-core-2.22.1.jar, -googleGson, C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\libraries\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar, -commonIo, C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\libraries\commons-io\commons-io\2.15.1\commons-io-2.15.1.jar, -parentXms, 4000M, -parentXmx, 9000M, -systemRAM, 15.9g, -processor, QU1EIFJ5emVuIDUgNTYwMCA2LUNvcmUgUHJvY2Vzc29yICAgICAgICAgICAgICA=, -serialisedGPUs, U3VjY2Vzc2Z1bGx5IGRldGVjdGVkIEdQVXMgdXNpbmcgVnVsa2FuOgpERURJQ0FURUQgOiBSYWRlb24gUlggNTgwIFNlcmllcwo=, -recursiveStart]
+[2025-06-08 20:15:51.633] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp running from: C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft
+[2025-06-08 20:15:51.633] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: crashAssistantJarName: CrashAssistant-fabric-1.19.2-1.21.4-1.9.2.jar
+[2025-06-08 20:15:51.634] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent PID: 8492
+[2025-06-08 20:15:51.634] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Parent started: 1749406547808
+[2025-06-08 20:15:51.635] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Platform: FABRIC
+[2025-06-08 20:15:51.635] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: loaderJarName: fabric-loader-0.16.14.jar
+[2025-06-08 20:15:51.636] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: minecraftVersion: 1.21.3
+[2025-06-08 20:15:51.636] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: childProcessesPIDs: UNDEFINED
+[2025-06-08 20:15:51.636] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXms: 4000M
+[2025-06-08 20:15:51.636] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: parentXmx: 9000M
+[2025-06-08 20:15:51.636] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: systemRAM: 15.9g
+[2025-06-08 20:15:51.636] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: processor: AMD Ryzen 5 5600 6-Core Processor              
+[2025-06-08 20:15:51.637] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Boot.serialisedGPUs:
+Successfully detected GPUs using Vulkan:
+DEDICATED : Radeon RX 580 Series
+
+[2025-06-08 20:15:51.637] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: os.name: windows 10
+[2025-06-08 20:15:51.640] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java path: C:\Users\Home\AppData\Roaming\Crystal-Launcher\runtime\64\jdk-21.0.2+13\bin\javaw.exe
+[2025-06-08 20:15:51.640] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Java version: 21.0.2+13-LTS
+[2025-06-08 20:15:51.655] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantApp started successfully. Waiting for PID 8492 to stop.
+[2025-06-08 20:15:57.761] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: PID "8492" is not alive or reused by another process. Minecraft JVM appears to have stopped.
+[2025-06-08 20:15:57.786] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding latest.log from C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\logs\latest.log
+[2025-06-08 20:15:57.791] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding crash_assistant_app.log from C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\logs\crash_assistant\crash_assistant_app.log
+[2025-06-08 20:15:57.791] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reached first tick of TitleScreen: false
+[2025-06-08 20:15:57.792] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Joined world successfully: false
+[2025-06-08 20:15:57.792] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Stop function of Minecraft fired: false
+[2025-06-08 20:15:57.792] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Seems like Minecraft crashed without any crash report. Starting Crash Assistant app.
+[2025-06-08 20:15:58.206] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: CrashAssistantGUI took to start: 0.444 seconds.
+[2025-06-08 20:15:58.251] [INFO] [dev.kostromdan.mods.crash_assistant.common_config.mod_list.ModListUtils]: Parsed 43 mod(s) metadata in 40 ms
+[2025-06-08 20:15:58.258] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Adding modlist.txt from C:\Users\Home\AppData\Roaming\Crystal-Launcher\instances\u.negro\.minecraft\logs\modlist.txt
+[2025-06-08 20:15:58.311] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Reading finished in 10 ms
+[2025-06-08 20:15:58.317] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: Analysis finished in 34 ms
+[2025-06-08 20:18:46.783] [INFO] [dev.kostromdan.mods.crash_assistant.app.CrashAssistantApp]: User accepted privacy policy.
